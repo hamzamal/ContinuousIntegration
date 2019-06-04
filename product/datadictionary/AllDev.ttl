@@ -1,3 +1,4 @@
+# Small change for testing
 # baseURI: http://spec.edmcouncil.org/AllDev
 # imports: https://spec.edmcouncil.org/fibo/BE/Corporations/Corporations/
 # imports: https://spec.edmcouncil.org/fibo/BE/CorporationsExt/CorporationEquity/
